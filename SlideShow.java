@@ -79,7 +79,9 @@ public class SlideShow extends JFrame {
 		slidePane.setLayout(card);
 		textPane.setLayout(cardText);
 		
+
 		// User selection preferences "price" or "country"
+
 		System.out.print("Search by price or country \n"
 				+ "1. PRICE\n"
 				+ "2. United Kingdom\n"
@@ -217,6 +219,7 @@ public class SlideShow extends JFrame {
 	private String getResizeIcon(int i) {
 		String image = ""; 
 		if (i==1){
+
 			image = "<html><body><img width= '800' height='500' src='" + getClass().getResource("/resources/bath_england.jpg") + "'</body></html>";
 		} else if (i==2){
 			image = "<html><body><img width= '800' height='500' src='" + getClass().getResource("/resources/bedford_springs.jpg") + "'</body></html>";
@@ -259,6 +262,7 @@ public class SlideShow extends JFrame {
 	
 	/**
 	 * Method to get the images for destination in Costa Rica
+
 	 */
 	private String getResizeIcon4(int i) {
 		String image = ""; 
@@ -276,6 +280,7 @@ public class SlideShow extends JFrame {
 		String text = ""; 
 		
 		if (i==1){
+  
 			text = "<html><body><font size='4'>$500 Bath, England.</font> <br>European spas will rejuvinate your body."
 					+ "</font> <br>By Diego Delso, https://commons.wikimedia.org/w/index.php?curid=35323216</body></html>";
 		} else if (i==2){
@@ -302,6 +307,7 @@ public class SlideShow extends JFrame {
 		String text = ""; 
 		
 		if (i==1){
+
 			text = "<html><body><font size='4'>$500 Bath, England.</font> <br>European spas will rejuvinate your body."
 					+ "</font> <br>By Diego Delso, https://commons.wikimedia.org/w/index.php?curid=35323216</body></html>";
 		} 
@@ -315,6 +321,9 @@ public class SlideShow extends JFrame {
 		String text = ""; 
 		
 		if (i==1){
+
+			text = "<html><body><font size='4'>$1000 Bedford Springs.</font> <br>A relaxing getaway that will restore you."
+
 					+ "</font> <br>By Adam W. Ritchey, https://commons.wikimedia.org/w/index.php?curid=73215355\r\n" + 
 					"</body></html>";
 		} else if (i==2){
@@ -334,6 +343,7 @@ public class SlideShow extends JFrame {
 		String text = ""; 
 		
 		if (i==1){
+
 			text = "<html><body><font size='4'>$2500 Costa Rica.<font> <br>Lush forest, gardens and views second to none."
 					+ "</font> <br>By Lars0001, https://commons.wikimedia.org/w/index.php?curid=3659600</body></html>";
 		}

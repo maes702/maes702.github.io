@@ -79,7 +79,9 @@ public class SlideShow extends JFrame {
 		slidePane.setLayout(card);
 		textPane.setLayout(cardText);
 		
-		// User selection preferences "price" of "country"
+
+		// User selection preferences "price" or "country"
+
 		System.out.print("Search by price or country \n"
 				+ "1. PRICE\n"
 				+ "2. United Kingdom\n"
@@ -176,7 +178,7 @@ public class SlideShow extends JFrame {
 	
 
 	/**
-	 * Get pricing options
+	 * Get pricing option for available destinations
 	 */
 	public int getPricingOpt() {
 		System.out.print("Enter desired price: \n"
@@ -212,12 +214,12 @@ public class SlideShow extends JFrame {
 	
 	
 	/**
-	 * Method to get the images
+	 * Method to get the images when pricing option is selected
 	 */
 	private String getResizeIcon(int i) {
 		String image = ""; 
 		if (i==1){
-			// updated images as requested for new wellness/detox slideshow
+
 			image = "<html><body><img width= '800' height='500' src='" + getClass().getResource("/resources/bath_england.jpg") + "'</body></html>";
 		} else if (i==2){
 			image = "<html><body><img width= '800' height='500' src='" + getClass().getResource("/resources/bedford_springs.jpg") + "'</body></html>";
@@ -237,7 +239,6 @@ public class SlideShow extends JFrame {
 	private String getResizeIcon2(int i) {
 		String image = ""; 
 		if (i==1){
-			// updated images as requested for new wellness/detox slideshow
 			image = "<html><body><img width= '800' height='500' src='" + getClass().getResource("/resources/bath_england.jpg") + "'</body></html>";
 		}
 
@@ -260,7 +261,8 @@ public class SlideShow extends JFrame {
 	}
 	
 	/**
-	 * Method to get the images for destination in the United States
+	 * Method to get the images for destination in Costa Rica
+
 	 */
 	private String getResizeIcon4(int i) {
 		String image = ""; 
@@ -272,14 +274,13 @@ public class SlideShow extends JFrame {
 
 	
 	/**
-	 * Method to get the text values
+	 * Method to get the text values. Description includes author of photos provided in slideshow
 	 */
 	private String getTextDescription(int i) {
 		String text = ""; 
 		
 		if (i==1){
-			// updated Top five destinations to adhere to wellness/detox category, also provided descriptive sentence about destinations.
-			// description includes author of photos provided in slideshow.
+  
 			text = "<html><body><font size='4'>$500 Bath, England.</font> <br>European spas will rejuvinate your body."
 					+ "</font> <br>By Diego Delso, https://commons.wikimedia.org/w/index.php?curid=35323216</body></html>";
 		} else if (i==2){
@@ -300,14 +301,13 @@ public class SlideShow extends JFrame {
 	}
 	
 	/**
-	 * Method to get the text values of European destinations
+	 * Method to get the text values of European destinations. Description includes author of photos privided in slideshow
 	 */
 	private String getTextDescription2(int i) {
 		String text = ""; 
 		
 		if (i==1){
-			// updated Top five destinations to adhere to wellness/detox category, also provided descriptive sentence about destinations.
-			// description includes author of photos provided in slideshow.
+
 			text = "<html><body><font size='4'>$500 Bath, England.</font> <br>European spas will rejuvinate your body."
 					+ "</font> <br>By Diego Delso, https://commons.wikimedia.org/w/index.php?curid=35323216</body></html>";
 		} 
@@ -315,15 +315,15 @@ public class SlideShow extends JFrame {
 	}
 	
 	/**
-	 * Method to get the text values
+	 * Method to get the text values. Description includes author of photos provided in slideshow.
 	 */
 	private String getTextDescription3(int i) {
 		String text = ""; 
 		
 		if (i==1){
-			// updated Top five destinations to adhere to wellness/detox category, also provided descriptive sentence about destinations.
-			// description includes author of photos provided in slideshow.
+
 			text = "<html><body><font size='4'>$1000 Bedford Springs.</font> <br>A relaxing getaway that will restore you."
+
 					+ "</font> <br>By Adam W. Ritchey, https://commons.wikimedia.org/w/index.php?curid=73215355\r\n" + 
 					"</body></html>";
 		} else if (i==2){
@@ -337,14 +337,13 @@ public class SlideShow extends JFrame {
 	}
 	
 	/**
-	 * Method to get the text values
+	 * Method to get the text values. Description includes author of phots provided in slideshow.
 	 */
 	private String getTextDescription4(int i) {
 		String text = ""; 
 		
 		if (i==1){
-			// updated Top five destinations to adhere to wellness/detox category, also provided descriptive sentence about destinations.
-			// description includes author of photos provided in slideshow.
+
 			text = "<html><body><font size='4'>$2500 Costa Rica.<font> <br>Lush forest, gardens and views second to none."
 					+ "</font> <br>By Lars0001, https://commons.wikimedia.org/w/index.php?curid=3659600</body></html>";
 		}

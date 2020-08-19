@@ -18,6 +18,8 @@ The slide show program is is a neat program with a lot of potential to be update
 
 This assignment was very informative and humbling. I thought everything I learned would come flowing back to me but I needed to do a lot of research to remember syntax and semantics. Then there were hours of trial and error as I was not sure where to request the user input. After placement was determined I was able to get the program to work and provide a slide show that is representative of a price sorted slide show.
 
+[SlideShow Artifact](artifacts/SlideShow.java)
+
 ### Algorithm and Data Structures
 ##### Destinations Slideshow Narrative
 
@@ -28,6 +30,10 @@ The enhancements showcases my ability to incorporate methods that can take an in
 
 This enhancement was very educational due to the fact that I tried many different methods in creating the location filter. I try to write out a logical plan and then execute. In this case I tried a switch statement that I really thought would work to add the location filter but could not get the loop to properly show the slides. I then tried separating all the inputs into several smaller functions but that became very messy and still didn’t work. After many failures I took a break and continued to think of the program and decided to create new methods for retrieving the images for the slides and I did this by making small modifications to the existing method that was used. After that things began to move along faster. The main problem was I could not get what I imagined in my head in code and was trying to code outside of my existing skill set. After making the modified methods all I had to do was provide the necessary data for the specific countries for the loop to iterate through. Every assignment has been extremely humbling as they make me realize I still have a long way to go to get to the level I would like to be but I must say the small victories I had on this assignment made me very happy.
 
+
+[SlideShow Artifact](artifacts/SlideShow.java)
+
+
 ### Databases
 ##### MongoDb Narrative
 
@@ -37,8 +43,7 @@ I included this artifact into my ePortfolio because I believe it is a great tool
 
 Some of the pros of utilizing the MongoDb API includes the learning of a new type of database schema. It enforced prior teaching in python and it was my first time using the json language or more so utilizing json format files. I love learning new concepts and methods and this class artifact really made me think when creating the methods outlines by the assignments. The challenges I had with this artifact is not being able to test and query from the provided databases when making my improvements but I believe I have created methods that will work to deliver the CRUD operations. Once again I have learned I have a long way to go but I am pleased that I have the opportunity to show that I have some experience in using non relational databases.
 
-[enhancement test](artifacts/SlideShow.java)
-
+[Databases Artifact](artifacts/Databases.py)
 
 ### Links to code review videos:
 You can use the [editor on GitHub](https://github.com/maes702/maes702.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

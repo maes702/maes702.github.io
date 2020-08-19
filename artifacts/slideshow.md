@@ -1,4 +1,4 @@
-[Previous](index.md)
+[Previous](maes702.github.io/index.md)
 
 ```java
 import java.awt.BorderLayout;

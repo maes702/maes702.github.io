@@ -372,3 +372,4 @@ public class SlideShow extends JFrame {
 	}
 }
 ```
+[Previous](../index.md)

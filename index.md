@@ -18,7 +18,7 @@ The slide show program is is a neat program with a lot of potential to be update
 
 This assignment was very informative and humbling. I thought everything I learned would come flowing back to me but I needed to do a lot of research to remember syntax and semantics. Then there were hours of trial and error as I was not sure where to request the user input. After placement was determined I was able to get the program to work and provide a slide show that is representative of a price sorted slide show.
 
-[SlideShow Artifact](artifacts/SlideShow.java)
+[SlideShow Artifact](artifacts/slideshow.md)
 
 ### Algorithm and Data Structures
 ##### Destinations Slideshow Narrative
@@ -31,7 +31,7 @@ The enhancements showcases my ability to incorporate methods that can take an in
 This enhancement was very educational due to the fact that I tried many different methods in creating the location filter. I try to write out a logical plan and then execute. In this case I tried a switch statement that I really thought would work to add the location filter but could not get the loop to properly show the slides. I then tried separating all the inputs into several smaller functions but that became very messy and still didn’t work. After many failures I took a break and continued to think of the program and decided to create new methods for retrieving the images for the slides and I did this by making small modifications to the existing method that was used. After that things began to move along faster. The main problem was I could not get what I imagined in my head in code and was trying to code outside of my existing skill set. After making the modified methods all I had to do was provide the necessary data for the specific countries for the loop to iterate through. Every assignment has been extremely humbling as they make me realize I still have a long way to go to get to the level I would like to be but I must say the small victories I had on this assignment made me very happy.
 
 
-[SlideShow Artifact](artifacts/SlideShow.java)
+[SlideShow Artifact](artifacts/slideshow.md)
 
 
 ### Databases

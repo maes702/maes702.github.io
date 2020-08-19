@@ -7,7 +7,7 @@
 
 -[code review video ](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%203of3.zip)
 
-[enhancement test](maes702.github.io/Enhancement Three_Databases.docx)
+[enhancement test](maes702.github.io/artifacts/SlideShow.java)
 
 
 ### Links to code review videos:

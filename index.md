@@ -7,6 +7,9 @@
 
 -[code review video ](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%203of3.zip)
 
+[Contribution guidelines for this project](README/.md)
+
+
 ### Links to code review videos:
 You can use the [editor on GitHub](https://github.com/maes702/maes702.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

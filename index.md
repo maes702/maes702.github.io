@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
-###Links to code review videos:
+
+### Links to code review videos:
+
 -[code review video 1](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%201of3.zip)
+
 -[code review video 2](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%202of3.zip)
+
 -[code review video ](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%203of3.zip)
 
-
+### Links to code review videos:
 You can use the [editor on GitHub](https://github.com/maes702/maes702.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

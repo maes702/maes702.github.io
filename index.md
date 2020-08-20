@@ -1,6 +1,8 @@
 
 ## Links to code review videos:
 
+[Code Review Refinement Plan](codeReview/refinementPlan.md)
+
 -[code review video 1 of 3](https://github.com/maes702/maes702.github.io/blob/master/videos/Informal%20Code%20Review%201of3.zip)
 
 -[code review video 2 of 3](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%202of3.zip)

@@ -37,3 +37,5 @@ I included this artifact into my ePortfolio because I believe it is a great tool
 Some of the pros of utilizing the MongoDb API includes the learning of a new type of database schema. It enforced prior teaching in python and it was my first time using the json language or more so utilizing json format files. I love learning new concepts and methods and this class artifact really made me think when creating the methods outlines by the assignments. The challenges I had with this artifact is not being able to test and query from the provided databases when making my improvements but I believe I have created methods that will work to deliver the CRUD operations. Once again I have learned I have a long way to go but I am pleased that I have the opportunity to show that I have some experience in using non relational databases.
 
 [Databases Artifact](artifacts/Databases.md)
+
+[PREVIOUS](../index.md)

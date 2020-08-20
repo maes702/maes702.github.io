@@ -5,7 +5,7 @@
 
 [Algorithm and Data Structures](artifacts/SlideShow.md)
 
-[Databases](artifacts/Databases.md)
+[Databases](maes702.github.io/artifacts/Databases.md)
 
 [PREVIOUS](../index.md)
  

@@ -10,17 +10,17 @@ In the pursuit of a my bachelor’s degree I have been exposed to several progra
 
 [Code Review Refinement Plan](codeReview/refinementPlan.md)
 
+[Narratives](Narratives/narratives.md)
+
+[Code Review Videos](videos/videos.md)
+
+[Artifacts](artifacts/artifact.md)
+
 ## Links to code review videos:
 
 
 
--[code review video 1 of 3](https://github.com/maes702/maes702.github.io/blob/master/videos/Informal%20Code%20Review%201of3.zip)
 
--[code review video 2 of 3](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%202of3.zip)
-
--[code review video 3 of 3](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%203of3.zip)
-
-## Artifacts
 
 
 

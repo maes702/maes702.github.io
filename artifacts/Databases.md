@@ -1,4 +1,4 @@
-[Previous](../index.md)
+[PREVIOUS](../index.md)
 
 ```python
 
@@ -157,4 +157,4 @@ def main():
   
 main()
 ```
-[Previous](../index.md)
+[PREVIOUS](../index.md)

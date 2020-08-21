@@ -1,4 +1,4 @@
-[PREVIOUS](../index.md)
+[HOME](../index.md)
 
 # Narratives
 
@@ -38,4 +38,4 @@ Some of the pros of utilizing the MongoDb API includes the learning of a new typ
 
 [Databases Artifact](artifacts/Databases.md)
 
-[PREVIOUS](../index.md)
+

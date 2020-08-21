@@ -8,11 +8,13 @@ In the pursuit of a my bachelor’s degree I have been exposed to several progra
  
 ## Links 
 
+[About](About/index.md)
+
 [Code Review Refinement Plan](codeReview/refinementPlan.md)
 
-[Narratives](Narratives/narratives.md)
-
 [Code Review Videos](videos/videos.md)
+
+[Narratives](Narratives/narratives.md)
 
 [Artifacts](artifacts/artifact.md)
 

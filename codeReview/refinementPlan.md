@@ -1,4 +1,6 @@
-[Previous](../index.md)
+```
+[HOME](../index.md)
+```
 
 # Refinement Plan
 
@@ -24,4 +26,4 @@ The MongoDb API restfule service was an artifact made in my CS 340 course some t
 
 -[code review video 3 of 3](https://github.com/maes702/maes702.github.io/blob/master/Informal%20Code%20Review%203of3.zip)
 
-[Previous](../index.md)
+

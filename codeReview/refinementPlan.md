@@ -16,7 +16,7 @@ The Slide Show project was an artifact from CS250 which fall in the Software Des
 
 ##### Enhancement Two
 
-The Slid Show project from the CS250 class can also be used for this category (Algorithms and Data Structures). Due to the limited complexity of this project it can improves in several areas. In addition to adding a price range filter to the top 5 destinations query I can also include a filter to set a geographical location, in this case the country, so only the destinations withing a certain country would be shown. Additional filter will demonstrate my ability to modify algorithms and data structures in python language. 
+The Slid Show project from the CS250 class can also be used for this category (Algorithms and Data Structures). Due to the limited complexity of this project it can be improved in several areas. In addition to adding a price range filter to the top 5 destinations query I can also include a filter to set a geographical location, in this case the country, so only the destinations withing a certain country would be shown. Additional filters will demonstrate my ability to modify algorithms and data structures in python language. 
 
 [Algorithm and Data Structrues Artifact](../artifacts/slideshow.md)
 

@@ -1,4 +1,4 @@
-[PREVIOUS](../index.md)
+[HOME](../index.md)
 
 # Artifacts
 
@@ -9,5 +9,5 @@
 
 [Databases](../artifacts/Databases.md)
 
-[PREVIOUS](../index.md)
+
  
